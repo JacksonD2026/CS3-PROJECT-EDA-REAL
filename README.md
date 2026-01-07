@@ -1,12 +1,22 @@
-# Python Template for CS3 
+# EDA PROJECT 
 
-This repository provides a simple **template** with `Python` starter code. You can create your own copy by clicking `Use This Template` whenever you need to start a new Python program. For **unit notes**, **project instructions**, and **helpful resources**, refer to our course website: 📖 [PythonDocs](https://coderina.dev/pythondocs/)
+Link to dataset:
+{LINK TEXT}{LINK ADDRESS}
 
-> ⚠️ _DO NOT modify the following files:_ `.devcontainer`, `.vscode`
+## COLUMN DESCRIPTIONS
 
-### 💻 Codespaces Instructions
-1. Click the green `<> Code` button in the top right area above the list of files
-2. Select the `Codespaces` tab and click `Open new Codespace on main`
-3. Wait for the Codespace to setup (_it will take some time because VSCode extensions are being installed_)
-4. After the extensions load, you can open `main.py` from the **File Explorer** menu on the left, and now you're ready to code!
-5. Always make sure to `commit changes` before closing a Codespace! 
+*All of the columns describe different types of crimes and their frequencies, with a descriptor at the top showing what the crime ist
+
+## Hypotheses/Question
+
+1. Which city has the most crime?
+2. Which city has the least?
+3. Which city has the most grand theft auto?
+4. Which city is the most DANGEROUS (violent crimes)?
+6. What is the most popular crime?
+7. What is the least popular crime?
+8.
+
+## Visualization Plan
+
+Going to mostly line graph, unless I decide to use a pi chart to show the difference between different
