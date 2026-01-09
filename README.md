@@ -15,8 +15,13 @@ Link to dataset:
 4. Which city is the most DANGEROUS (violent crimes)?
 6. What is the most popular crime?
 7. What is the least popular crime?
-8.
+8. What coast is more dangerous
 
 ## Visualization Plan
 
 Going to mostly line graph, unless I decide to use a pi chart to show the difference between different
+
+RIDGELINE PLOT
+BOXPLOT
+HEATMAP
+VIOLIN
